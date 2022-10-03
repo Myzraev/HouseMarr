@@ -1,7 +1,6 @@
-/* CSS */
-/* CSS */
-/* CSS */
-
+/************************
+HTML
+*************************/
 
 body {
     font-family: 'Times New Roman', serif;
@@ -53,23 +52,14 @@ a:hover {
 }
 
 a:visited {
-    color: #7c5f48;
-}
-
-/*
-a:link {
     color: #A27B5C;
 }
 
-a:active {
-    color: white;
-}
-*/
+/************************
+CLASSES
+*************************/
 
-/* CLASSES */
-/* CLASSES */
-/* CLASSES */
-
+/**** Index Classes ****/
 
 .profile {
     width: 30%;
@@ -110,18 +100,6 @@ a:active {
     display: none;
 }
 
-.character-row {
-    margin: 100px auto;
-    text-align: left;
-    width: 50%;
-}
-
-.character-img {
-    float: left;
-    margin-right: 30px;
-    width: 15%;
-}
-
 .skill-row {
     margin: 100px auto;
     text-align: left;
@@ -154,6 +132,20 @@ a:active {
     background: #ffffff;
     text-decoration: none;
   }
+
+/**** Character Classes ****/
+
+.character-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.character-img {
+    float: left;
+    margin-right: 30px;
+    width: 15%;
+}
 
 
 

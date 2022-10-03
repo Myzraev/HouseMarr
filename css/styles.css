@@ -86,20 +86,6 @@ CLASSES
     padding: 40px 0 30px;
 }
 
-.top-cloud {
-    position: absolute;
-    right: 300px;
-    top: 50px;
-    display: none;
-}
-
-.bottom-cloud {
-    position: absolute;
-    left: 300px;
-    bottom: 300px;
-    display: none;
-}
-
 .skill-row {
     margin: 100px auto;
     text-align: left;

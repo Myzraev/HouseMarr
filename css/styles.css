@@ -1,0 +1,175 @@
+
+body {
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-color: #414747;
+    border-style: dotted none none;
+    border-width: 6px;
+    margin: 100px auto;
+    width: 4%;
+}
+
+h1 {
+    color: #A27B5C;
+    font-family: 'Cinzel', serif;
+    font-size: 4rem;
+    line-height: 1;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #A27B5C;
+    font-family: 'Cinzel', serif;
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #A27B5C;
+    font-family: 'Cinzel', serif;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+a {
+    color: #A27B5C;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    color: #7c5f48;
+}
+
+/*
+a:link {
+    color: #A27B5C;
+}
+
+a:active {
+    color: white;
+}
+*/
+
+.profile {
+    width: 30%;
+    margin: auto;
+}
+
+.profile-img {
+    width: 30%;
+}
+
+.top-container {
+    background-color: #2C3639;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #3F4E4F;
+    padding: 40px 0 30px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    display: none;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    display: none;
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.skill-img {
+    float: left;
+    margin-right: 30px;
+    width: 15%;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 50px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Times New Roman', serif;
+    color: #000000;
+    background: #A27B5C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    text-decoration: none;
+  }
+
+
+
+
+/* Backup Standards
+
+body {
+    background-color: #2C3639;
+    color: #DCD7C9;
+}
+
+hr {
+    border-color: #3F4E4F;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 3%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #A27B5C;
+}
+
+a:link {
+    color: #A27B5C;
+}
+
+a:visited {
+    color: #7c5f48;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+*/

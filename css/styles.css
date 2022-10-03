@@ -73,12 +73,12 @@ CLASSES
 .top-bar-container {
     background-color: #2C3639;
     position: relative;
-    padding: 20px 20px;
+    padding: 15px 0;
 }
 
 .top-bar-img {
-    bottom: 15px;
-    right: 15px;
+    bottom: 10px;
+    left: 5px;
     position: relative;
     float: left;
     width: 25px;

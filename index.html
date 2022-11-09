@@ -1,69 +1,114 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>House of Marr Test Site</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="icon" href="images/favicon32.png"
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Fondamento&family=Goudy+Bookletter+1911&family=Imperial+Script&family=Pinyon+Script&family=Tangerine&display=swap" rel="stylesheet">
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <title>House of Marr</title>
+  <link rel="icon" href="images/favicon32.png">
+
+  <!--Google Fonts-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Fondamento&family=Goudy+Bookletter+1911&family=Imperial+Script&family=Montserrat:wght@300;400;900&family=Pinyon+Script&family=Tangerine&family=Ubuntu&display=swap" rel="stylesheet">
+  
+  <!--CSS Stylesheets-->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!--Bootstrap Scripts-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+  
+  <!--Font Awesome-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css" integrity="sha512-HHsOC+h3najWR7OKiGZtfhFIEzg5VRIPde0kB0bG2QRidTQqf+sbfcxCTB16AcFB93xMjnBIKE29/MjdzXE+qw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
-    <div class="top-bar-container">
-        <a href="index.html"><img class="top-bar-img" src="images/sigil3.png" alt="house sigil"></a>
-    </div>
 
-    <div class="top-container">
-        <h1>The House of MARR</h1>
-        <h3><i>"Fortitudo et Furor"</i></h2>
-        <img src="images/sigil3.png" alt="house sigil">
-    </div>
+    <section class="navigation-bar">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.html"><img class="navbar-img" src="images/sigil3.png">  House of Marr</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarMain">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Characters</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Ships</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Places</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </section>
 
-    <div class="middle-container">
-        <div class="profile">
-            <img class="profile-img" src="" alt="">
-            <h2>Strength and Fury</h2>
-            <p>Founded by Juron Marr and exalted by the Emperor himself during the Great Crusade, the house of Marr has brought glory and prosperity to countless worlds in the galaxy</p>
+    <section id="title">
+        <div class="container-fluid">
+            <h1>The House of Marr</h1>
+            <h3><i>"Fortitudo et Furor"</i></h3>
+            <img class="title-sigil" src="images/sigil3.png">
         </div>
-    <hr>
-        <div class="characters">
-        <h2>Characters</h2>
-            <div class="data-row">
-                <img class="data-img" src="images/trask4.png" alt="image of titus">
-                <h3><a href="character_titus.html">Lord Titus Augustus Marr</a></h3>
-                <p>Head of the house of Marr, protector of Achanor, Witch Tyrant of the Penumbral Fleet and rogue trader to the Imperium of Man</p>
-            </div>
-            <div class="data-row">
-                <img class="data-img" src="images/vylea1.png" alt="image of vylea">
-                <h3><a href="character_vylea.html"> Admiral Vylea Arana</a></h3>
-                <p>Commanding officer of House Marr's primary fleet and the right hand of Titus Marr</p>
-            </div>
-            <div class="data-row">
-                <img class="data-img" src="images/zuriel2.png" alt="image of zuriel">
-                <h3><a href="character_zuriel.html"> Captain Zuriel Arcassos</a></h3>
-                <p>Captain of the Crownguard</p>
-            </div>
+    </section>
+
+    <section id="house">
+        <div class="container-fluid">
+            <h1>Strength and Fury</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
-    <hr>
-        <div class="contact-me">
-            <h2>WIP</h2>
-            <h3>Work in progress</h3>
-            <p>This site is a work in progress and still far from finished</p>
+    </section>
+
+    <section id="characters">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-3 character-heading">
+            <h2>Characters</h3>
+          </div>
+          <div class="col-lg-3">
+            <img class="character-image" src="images/charactericon.png" alt="image of titus">
+            <h3>Character One</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+          <div class="col-lg-3">
+            <img class="character-image" src="images/charactericon.png" alt="image of vylea">
+            <h3>Character Two</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
+          <div class="col-lg-3">
+            <img class="character-image" src="images/charactericon.png" alt="image of zuriel">
+            <h3>Character Three</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          </div>
         </div>
-    </div>
-      
-    <div class="bottom-container">
-        <a class="footer-link" href="creator.html">Creator</a>
-        <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
-        <a class="footer-link" href="https://myzraev.github.io/HouseMarr/">Website</a>
-        <p>© Burak Çoruh</p>
-    </div>
-      
+      </div>
+    </section>
+
+    <section id="ships">
+        <div class="container-fluid">
+            <h2>Ships</h2>
+        </div>
+    </section>
+
+    <section id="places">
+        <div class="container-fluid">
+            <h2>Places</h2>
+        </div>
+    </section>
+
+    <section id="footer">
+        <div class="container-fluid">
+            <h2>Footer</h2>
+        </div>
+    </section>
+
 </body>
 
 </html>

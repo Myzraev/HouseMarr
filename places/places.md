@@ -6,6 +6,6 @@ has_children: true
 ---
 
 # Places
-This section is dedicated to places (realms, systems, planets, nations, cities, etc.) within the setting.
+This section is dedicated to places (realms, systems, etc.) within the setting.
 
 WIP

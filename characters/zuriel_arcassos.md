@@ -1,14 +1,14 @@
 ---
-title: 
+title: Zuriel Arcassos
 layout: page
 parent: Characters
 nav_order: 
 ---
-# Name
-**Title best known for**
-*Ranks and titles, if any*
+# Zuriel Arcassos
+**Lifeward to Lord Marr, Principle Retinue**
+*Brother-Captain*
 
-*"Quick description"*
+An astartes of a now-dead chapter, head of Nikkolo Marr's bodyguard detail.
 
 ## Bio
 *"Full biography, further split into subheadings if necessary."*

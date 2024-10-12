@@ -1,5 +1,5 @@
 ---
-title: 
+title: Null 44 Octav
 layout: page
 parent: Characters
 nav_order: 

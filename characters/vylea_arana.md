@@ -5,8 +5,8 @@ parent: Characters
 nav_order: 
 ---
 # Vylea Arana
-**Executor**
-*The Lady Arana, Shipmaster*
+**Executor**  
+*The Lady Arana, Shipmistress, Executor of the Fleet*
 
 Shipmaster of the Maleficar and primary naval advisor to Nikkolo Marr. Executor of the fleet, intelligent, pragmatic and ruthless. Taken from the Imperial Navy and elevated to nobility by the Rogue Trader himself. Head of House Arana, who supply the protectorate with officers and crew for its military and trade vessels.
 

@@ -4,7 +4,7 @@ layout: page
 parent: Characters
 nav_order: 
 ---
-# Nikkolo Augustus Marr  
+# Nikkolo Augustus Marr
 **The Lord Marr, Rogue Trader**  
 
 Lord of the House of Marr, holder of the Warrant of Trade.

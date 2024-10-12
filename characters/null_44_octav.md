@@ -6,7 +6,6 @@ nav_order:
 ---
 # Null 44 Octav
 **Title best known for**  
-*Ranks and titles, if any*
 
 *"Quick description"*
 

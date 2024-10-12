@@ -1,11 +1,11 @@
 ---
-title: Tybar Herator
+title: Tybar Heraton
 layout: page
 parent: Characters
 nav_order: 
 ---
 # Tybar Heraton
-**Lord Inquisitor, Ordo Hereticus**
+**Lord Inquisitor, Ordo Hereticus**  
 
 *"Quick description"*
 

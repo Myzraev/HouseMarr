@@ -5,10 +5,9 @@ parent: Characters
 nav_order: 
 ---
 # Zuriel Arcassos
-**Lifeward to Lord Marr, Principle Retinue**
-*Brother-Captain*
+**Lifeward to Lord Marr, Principle Retinue**  
 
-An astartes of a now-dead chapter, head of Nikkolo Marr's bodyguard detail.
+Brother-captain ZUriel Arccassos, astartes of a now-dead chapter, head of Nikkolo Marr's personal bodyguard detail.
 
 ## Bio
 *"Full biography, further split into subheadings if necessary."*

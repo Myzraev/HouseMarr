@@ -5,7 +5,7 @@ parent: Characters
 nav_order: 
 ---
 # Silas Theol Pyreworth
-**Master of Whispers**
+**Master of Whispers**  
 
 As master of whispers to the house of Marr it is no surprise that Lord Pyreworth is one of Nikkolo Marr's closest confidants and advisors, perhaps second only to Seneschal Trevaan. Taciturn, paranoid and secretive, Pyreworth embodies the stereotype of spymaster. The extent and reach of House Marr's intelligence network is known only to him and his master the Lord Marr.
 

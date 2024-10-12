@@ -8,8 +8,8 @@ nav_order:
 
 **Leader(s)**: Vylea Arana  
 **Type**: Noble House  
-**Objectives**: Fighting and containing Abyssal threats, maintaining balance across the multiverse  
-**Base of Operations**:  
+**Objectives**: Service to House Marr  
+**Base of Operations**: Planet Arcius
 
 *"Description"*
 

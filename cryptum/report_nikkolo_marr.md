@@ -7,7 +7,7 @@ nav_order:
 # NIKKOLO AUGUSTUS MARR
 *The Lord Marr, Protector of Achanor, Rogue Trader*
 
-Birthdate: 3256044.M42 / 44.474+ VNH M42
+Birthdate: 3256044.M42 / 44.474+ VNH M42  
 Birthplace: Planet Arcius (Capital, Vanhir System), Artia Subsector, Dimant Sector, Segmentum Ultima
 
 ## Early History

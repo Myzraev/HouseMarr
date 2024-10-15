@@ -5,6 +5,13 @@ parent: Cryptum
 nav_order: 
 ---
 # NIKKOLO AUGUSTUS MARR
+
+###### ==//Imperial Administratum Protected Archive, Arc. # 00674900194883, Doc. # 078829-C, Indigo-Omega Access Granted // PROTECTED status granted by the Hegemony Council (Order # 395678-0578-684-B) and by Imperial Decree. Warning, unauthorized access will be censured in accordance with Adeptus Administratum vigilance protocols (General Active Protocols #001) as granted by the Offices of the Adeptus Custodes (Individual protector unknown/RESTRICTED) //Limited archive access granted, opening:
+
+###### ==// Directory selection // A-154, Appendment #008 // appended by Lord Inquisitor Tybar Heraton (Access key: RESTRICTED …declassifying...Access key: 340081725221 // Notice, unable to restrict individual directory access key(s), PROTECTED STATUS) // Warning, unauthorized access will be met with censure as dictated by the Officio Planetia Inquisitoria, Ordo Terra // exceptions granted by the Offices of the Adeptus Custodes as given by PROTECTED status//
+###### //Directory access granted, opening:==
+
+
 *The Lord Marr, Protector of Achanor, Rogue Trader*
 
 Birthdate: 3256044.M42 / 44.474+ VNH M42  

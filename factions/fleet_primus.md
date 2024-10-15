@@ -27,9 +27,9 @@ nav_order:
 
 | Column 1      | Column 2      |
 | :------------ | :------------ |
-| Cell 1, Row 1 | Cell 2, Row 1 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
+| Bellum Magnificum | Cruiser |
+| Cruor Anacreon | Cell 1, Row 2 |
+| Ardent Hand | Cell 1, Row 2 |
 | Cell 1, Row 2 | Cell 1, Row 2 |
 | Cell 1, Row 2 | Cell 1, Row 2 |
 | Cell 1, Row 2 | Cell 1, Row 2 |

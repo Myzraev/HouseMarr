@@ -1,3 +1,9 @@
+---
+title: Nikkolo Augustus Marr - Inquisitorial Report
+layout: page
+parent: Cryptum
+nav_order: 
+---
 # NIKKOLO AUGUSTUS MARR - Inquisitorial Report
 *The Lord Marr, Protector of Achanor, Rogue Trader*
 

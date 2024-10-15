@@ -1,0 +1,17 @@
+---
+title: Fleet Primus
+layout: page
+parent: Factions
+nav_order: 
+---
+# Fleet Primus
+
+**Leader(s)**: Admiral Lucius Kynus  
+**Type**: Fleet  
+**Objective/Functions**: Security  
+**Base of Operations**: Planet Achanor  
+
+*Primary House fleet, tasked with securing the core systems of the Marr Protectorate*
+
+## Known vessels, active:
+

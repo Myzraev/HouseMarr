@@ -30,11 +30,9 @@ nav_order:
 | Bellum Magnificum | Cruiser |
 | Cruor Anacreon | Cell 1, Row 2 |
 | Ardent Hand | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
+| Defiant Queen | Cell 1, Row 2 |
+| Starchild | Cell 1, Row 2 |
+| Wrathchild | Cell 1, Row 2 |
+| Escort Squadron Alpha | Cell 1, Row 2 |
+| Escort Squadron Beta | Cell 1, Row 2 |
+

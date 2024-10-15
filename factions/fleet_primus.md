@@ -15,7 +15,7 @@ nav_order:
 
 ## Known vessels, active:
 | Name | Type |  
-| ------- | ------- |  
+| :--------------- | :--------------- |  
 | Bellum Magnificum | Cruiser |  
 | Cruor Anacreon | Cruiser |  
 | Ardent Hand | Cruiser |  

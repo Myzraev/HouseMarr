@@ -15,7 +15,7 @@ Fleets of House Marr.
 ## Fleet Primus
 **Commanding Officer**: Admiral Aebon Galer  
 
-House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate
+House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate.
 
 ### Vessels in active service:
 
@@ -33,7 +33,7 @@ House Marr's primary fleet, tasked with securing the core systems of the Marr Pr
 ## Fleet Secundus
 **Commanding Officer**: Admiral Rogan Scutus  
 
-House Marr's reserve fleet, tasked with defending Achanor
+House Marr's reserve fleet, tasked with defending Achanor.
 
 ### Vessels in active service:
 

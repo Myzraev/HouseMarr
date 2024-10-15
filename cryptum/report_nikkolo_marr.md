@@ -4,7 +4,7 @@ layout: page
 parent: Cryptum
 nav_order: 
 ---
-# NIKKOLO AUGUSTUS MARR - Inquisitorial Report
+# NIKKOLO AUGUSTUS MARR
 *The Lord Marr, Protector of Achanor, Rogue Trader*
 
 Birthdate: 3256044.M42 / 44.474+ VNH M42

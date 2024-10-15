@@ -14,10 +14,14 @@ nav_order:
 *Primary House fleet, tasked with securing the core systems of the Marr Protectorate*
 
 ## Known vessels, active:
-
-| Shipname | Class |
+| Name | Type |
 | -------- | ----- |
-| Test | Test2 |
-| Test | Test2 |
-| Test | Test2 |
+| Bellum Magnificum | Cruiser |
+| Cruor Anacreon | Cruiser |
+| Ardent Hand | Cruiser |
+| Defiant Queen | Light Cruiser |
+| Starchild | Light Carrier |
+| Wrathchild | Light Carrier |
+| Escort Squadron Alpha | Frigate (6x) |
+| Escort Squadron Beta | Destroyer (4x) |
 

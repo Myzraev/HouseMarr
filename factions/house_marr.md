@@ -8,10 +8,10 @@ nav_order:
 
 **Leader(s)**: Nikkolo Augustus Marr  
 **Type**: Rogue Trader Dynasty  
-**Objectives/Functions**: Power & Wealth
-**Base of Operations**: Planet Achanor
+**Objectives/Functions**: Power & Wealth  
+**Base of Operations**: Planet Achanor  
 
-*"Description"*
+*Description*
 
 ## Known Members:  
 **Nikkolo Augustus Marr**: Head of the House.

@@ -6,7 +6,7 @@ nav_order:
 ---
 # Marrian Hoplites
 
-**Leader(s)**: Lord Commander Rogan Scutus  
+**Leader(s)**: Commander Rogan Scutus  
 **Type**: Elite void troopers  
 **Objective/Functions**: Service to House Marr  
 **Base of Operations**: The Maleficar  
@@ -14,4 +14,4 @@ nav_order:
 *Description*
 
 ## Known Members:  
-**Name**: Lord Commander Rogan Scutus, leader of the Marrian Hoplites.
+**Commander Rogan Scutus**: Leader of the Marrian Hoplites.

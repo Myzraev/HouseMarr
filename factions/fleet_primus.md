@@ -25,3 +25,7 @@ nav_order:
 | Escort Squadron Alpha | Frigate (6x) |  
 | Escort Squadron Beta | Destroyer (4x) |  
 
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |

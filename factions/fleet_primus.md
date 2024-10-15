@@ -6,7 +6,7 @@ nav_order:
 ---
 # Fleet Primus
 
-**Leader(s)**: Admiral Lucius Kynus  
+**Leader(s)**: Admiral Aebon Galer  
 **Type**: Fleet  
 **Objective/Functions**: Security  
 **Base of Operations**: Planet Achanor  

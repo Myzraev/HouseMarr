@@ -8,7 +8,7 @@ nav_order:
 
 **Leader(s)**: Vylea Arana  
 **Type**: Noble House  
-**Objectives**: Service to House Marr  
+**Objectives/Functions**: Service to House Marr  
 **Base of Operations**: Planet Achanor
 
 *"Description"*

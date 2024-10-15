@@ -14,5 +14,5 @@ nav_order:
 *Description*
 
 ## Known Members:  
-**Nikkolo Augustus Marr**: Founder, head of state.
-**Serryn Varraque**: Regent, head of government.
+**Nikkolo Augustus Marr**: Founder and head of state.
+**Serryn Varraque**: Regent and head of government.

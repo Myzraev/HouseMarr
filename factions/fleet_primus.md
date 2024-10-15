@@ -15,3 +15,9 @@ nav_order:
 
 ## Known vessels, active:
 
+| Shipname | Class |
+| -------- | ----- |
+| Test | Test2 |
+| Test | Test2 |
+| Test | Test2 |
+

@@ -25,7 +25,7 @@ nav_order:
 | Escort Squadron Alpha | Frigate (6x)   |  
 | Escort Squadron Beta | Destroyer (4x)  |  
 
-| Column 1      | Column 2      |
+| Name          | Type          |
 | :------------ | :------------ |
 | Bellum Magnificum | Cruiser |
 | Cruor Anacreon | Cruiser |

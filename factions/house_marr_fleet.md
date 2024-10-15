@@ -15,7 +15,7 @@ Fleets of House Marr.
 ## Fleet Primus
 **Commanding Officer**: Admiral Aebon Galer  
 
-*House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate*
+House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate
 
 ### Vessels in active service:
 
@@ -33,7 +33,7 @@ Fleets of House Marr.
 ## Fleet Secundus
 **Commanding Officer**: Admiral Rogan Scutus  
 
-*House Marr's reserve fleet, tasked with defending Achanor*
+House Marr's reserve fleet, tasked with defending Achanor
 
 ### Vessels in active service:
 
@@ -46,8 +46,11 @@ Fleets of House Marr.
 | Ship | Type, Class |
 
 ## Fleet Tertius
-**Commanding Officer**: Admiral    
+**Commanding Officer**: Admiral Absalom Sial  
 
-*House Marr's tertiary fleet, its ships are usually split apart and given support assignments such as carrying important messages, house personnel, or high-value cargo. Not active combat vessels unless the situation is critical.
+House Marr's supporting fleet. Its vessels are usually split on detached duties and operate alone on diplomatic, beurocratic, or transport assignments. It's sole capital-class vessel is the *Vera Nobilitas* which is permanently stationed in orbit around Planet Achanor and acts as an embassy for foreign dignitaries, be they imperial or xenos. Although comprised of mostly combat capable escort-class vessels they are not given combat taskings unless the situation is critical.
 
+## Merchant Fleet
+**Commanding Officer**: Magister Celia Dessout  
 
+Various warp-capable transport vessels and mass-conveyors belonging to House Marr, forming the backbone of the Protectorate's logistics and trade capability.

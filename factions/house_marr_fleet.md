@@ -1,11 +1,14 @@
 ---
-title: Fleet Primus
+title: House Marr Fleet
 layout: page
 parent: Factions
 nav_order: 
 ---
-# Fleet Primus
+# House Marr Fleet
 
+Fleets of House Marr
+
+## Fleet Primus
 **Leader(s)**: Admiral Aebon Galer  
 **Type**: Fleet  
 **Objective/Functions**: Security  
@@ -13,7 +16,7 @@ nav_order:
 
 *House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate*
 
-## Vessels in active service:
+### Vessels in active service:
 
 | Name          | Type, Class   |
 | :------------ | :------------ |
@@ -25,4 +28,23 @@ nav_order:
 | Wrathchild | Light Carrier, Defiant |
 | Escort Squadron Alpha | 6x Frigate, Sword |
 | Escort Squadron Beta | 4x Destroyer, Cobra |
+
+
+## Fleet Secundus
+**Leader(s)**: Admiral Rohan Scutus  
+**Type**: Fleet  
+**Objective/Functions**: Security  
+**Base of Operations**: Planet Achanor  
+
+*House Marr's reserve fleet, tasked with defending Achanor*
+
+### Vessels in active service:
+
+| Name          | Type, Class   |
+| :------------ | :------------ |
+| Ship | Type, Class |
+| Ship | Type, Class |
+| Ship | Type, Class |
+| Ship | Type, Class |
+| Ship | Type, Class |
 

@@ -5,9 +5,9 @@ parent: Factions
 nav_order: 
 ---
 # House Marr Fleet
-**Leader(s)**: Admiralty  
+**Leader(s)**: Admiralty of the Marr Protectorate  
 **Type**: Fleet  
-**Objective/Functions**: Security  
+**Objective/Functions**: Security, Trade, Logistics  
 **Base of Operations**: Planet Achanor  
 
 Fleets of House Marr.
@@ -25,6 +25,7 @@ House Marr's primary fleet, tasked with securing the core systems of the Marr Pr
 | Cruor Anacreon | Cruiser, Lunar |
 | Ardent Hand | Cruiser, Gothic |
 | Defiant Queen | Light Cruiser, Endeavor |
+| Skaris | Light Cruiser, Defender |
 | Starchild | Light Carrier, Defiant |
 | Wrathchild | Light Carrier, Defiant |
 | Escort Squadron Alpha | 6x Frigate, Sword |
@@ -39,11 +40,17 @@ House Marr's reserve fleet, tasked with defending Achanor.
 
 | Name          | Type, Class   |
 | :------------ | :------------ |
-| Ship | Type, Class |
-| Ship | Type, Class |
-| Ship | Type, Class |
-| Ship | Type, Class |
-| Ship | Type, Class |
+| Ship | Cruiser, Cardinal |
+| Ship | Light Cruiser, Dauntless |
+| Ship | Light Cruiser, Defiant |
+| Ship | Light Cruiser, Enforcer |
+| Ship | Light Carrier, Enforcer |
+| Monitor Squadron Alpha | 3x Defence Monitor |
+| Monitor Squadron Beta | 3x Defence Monitor |
+| Escort Squadron Alpha | 5x Frigate, Sword |
+| Escort Squadron Beta | 5x Frigate, Class |
+| Escort Squadron Gamma | 4x Destroyer, Cobra |
+| Escort Squadron Delta | 4x Destroyer, Cobra |
 
 ## Fleet Tertius
 **Commanding Officer**: Admiral Absalom Sial  

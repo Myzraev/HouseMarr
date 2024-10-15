@@ -45,3 +45,9 @@ Fleets of House Marr.
 | Ship | Type, Class |
 | Ship | Type, Class |
 
+## Fleet Tertius
+**Commanding Officer**: Admiral    
+
+*House Marr's tertiary fleet, its ships are usually split apart and given support assignments such as carrying important messages, house personnel, or high-value cargo. Not active combat vessels unless the situation is critical.
+
+

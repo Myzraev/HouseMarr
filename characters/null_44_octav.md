@@ -5,7 +5,7 @@ parent: Characters
 nav_order: 
 ---
 # Null 44 Octav
-**Title best known for**  
+*Title best known for*  
 
 Description
 

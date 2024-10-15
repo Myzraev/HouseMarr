@@ -13,12 +13,12 @@ nav_order:
 
 *House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate*
 
-### Known vessels in service:
+## Vessels in active service:
 
-| Name          | Type          |
-| :------------ | :------------ |
-| Bellum Magnificum | Cruiser |
-| Cruor Anacreon | Cruiser |
+| Name             | Type, Class      |
+| :--------------- | :--------------- |
+| Bellum Magnificum | Cruiser, Lunar |
+| Cruor Anacreon | Cruiser, Lunar |
 | Ardent Hand | Cruiser |
 | Defiant Queen | Light Cruiser |
 | Starchild | Light Carrier |

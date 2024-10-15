@@ -40,11 +40,11 @@ House Marr's reserve fleet, tasked with defending Achanor.
 
 | Name          | Type, Class   |
 | :------------ | :------------ |
-| Ship | Cruiser, Cardinal |
-| Ship | Light Cruiser, Dauntless |
-| Ship | Light Cruiser, Defiant |
-| Ship | Light Cruiser, Enforcer |
-| Ship | Light Carrier, Enforcer |
+| Lord Vangorich | Cruiser, Cardinal |
+| Sword of Giovir | Light Cruiser, Dauntless |
+| Golden Wing | Light Cruiser, Defiant |
+| Surtur | Light Cruiser, Enforcer |
+| Bellator Inanis | Light Carrier, Enforcer |
 | Monitor Squadron Alpha | 3x Defence Monitor |
 | Monitor Squadron Beta | 3x Defence Monitor |
 | Escort Squadron Alpha | 5x Frigate, Sword |

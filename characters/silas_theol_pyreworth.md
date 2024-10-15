@@ -12,10 +12,9 @@ As master of whispers to the house of Marr it is no surprise that Lord Pyreworth
 Although it is unknown exactly how the Lord Marr managed to obtain such a powerful candidate, Silas was in fact formally given to House Marr by the Scholastia Psykana. He is an exceptionally powerful telepath.
 
 ## Bio
-*"Full biography, further split into subheadings if necessary."*
+
 
 ## Abilities
-*"Description of the character's known skills, talents, and abilities"*
+
 
 ## Wargear
-*"List of notable wargear used by the character"*

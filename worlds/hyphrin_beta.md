@@ -17,10 +17,9 @@ nav_order:
 Forge world, primary industry node for the entirety of the Crucis Reach.
 
 ## History
-Planet history, detailed
+
 
 ## Resources
-List or description of notable resources and/or exported goods
+
 
 ## Points of Interest
-Notable locations and their descriptions

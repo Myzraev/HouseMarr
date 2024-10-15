@@ -9,7 +9,7 @@ nav_order:
 **Leader(s)**: Nikkolo Augustus Marr  
 **Type**: Rogue Trader Dynasty  
 **Objectives**: Power & Wealth
-**Base of Operations**: Planet Arcius
+**Base of Operations**: Planet Achanor
 
 *"Description"*
 

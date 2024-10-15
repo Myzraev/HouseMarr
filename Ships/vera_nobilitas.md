@@ -15,7 +15,7 @@ This ancestral vessel of House Marr once held the esteemed position of flagship 
 Since its retirement, it has been repaired and refurbished extensively, its hull and halls decorated in the extravagance and luxury; echoing House Marr's now almost forgotten past.
 
 ## History
-*History of vessel*
+
 
 ## Armaments
-*List of notable weapon systems*
+

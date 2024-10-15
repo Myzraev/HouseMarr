@@ -17,10 +17,9 @@ nav_order:
 Capital world of the Marrian protectorate.
 
 ## History
-Planet history, detailed
+
 
 ## Resources
-List or description of notable resources and/or exported goods
+
 
 ## Points of Interest
-Notable locations and their descriptions

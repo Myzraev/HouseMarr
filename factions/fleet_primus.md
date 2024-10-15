@@ -15,8 +15,8 @@ nav_order:
 
 ## Vessels in active service:
 
-| Name             | Type, Class      |
-| :--------------- | :--------------- |
+| Name          | Type, Class   |
+| :------------ | :------------ |
 | Bellum Magnificum | Cruiser, Lunar |
 | Cruor Anacreon | Cruiser, Lunar |
 | Ardent Hand | Cruiser |

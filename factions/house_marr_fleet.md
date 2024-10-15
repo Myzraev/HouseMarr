@@ -45,12 +45,12 @@ House Marr's reserve fleet, tasked with defending Achanor.
 | Golden Wing | Light Cruiser, Defiant |
 | Surtur | Light Cruiser, Enforcer |
 | Bellator Inanis | Light Carrier, Enforcer |
-| Monitor Squadron Alpha | 3x Defence Monitor |
-| Monitor Squadron Beta | 3x Defence Monitor |
 | Escort Squadron Alpha | 5x Frigate, Sword |
 | Escort Squadron Beta | 5x Frigate, Firestorm |
 | Escort Squadron Gamma | 4x Destroyer, Cobra |
 | Escort Squadron Delta | 4x Destroyer, Cobra |
+| Monitor Squadron Alpha | 3x Defence Monitor |
+| Monitor Squadron Beta | 3x Defence Monitor |
 
 ## Fleet Tertius
 **Commanding Officer**: Admiral Absalom Sial  

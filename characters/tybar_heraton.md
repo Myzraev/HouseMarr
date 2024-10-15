@@ -7,13 +7,12 @@ nav_order:
 # Tybar Heraton
 **Lord Inquisitor, Ordo Hereticus**  
 
-*"Quick description"*
+Lord Inquisitor of the Ordo Hereticus. Master of the Crucis Conclave of the inquisition. Controls or oversees most inquisitorial operations throughout the Crucis Reach.
 
 ## Bio
-*"Full biography, further split into subheadings if necessary."*
+
 
 ## Abilities
-*"Description of the character's known skills, talents, and abilities"*
+
 
 ## Wargear
-*"List of notable wargear used by the character"*

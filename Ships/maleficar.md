@@ -6,11 +6,11 @@ nav_order:
 ---
 
 # Maleficar
-**Type**: 
-**Class**: 
-**Affiliation**: House Marr
+**Type**: Battleship  
+**Class**: Emperor, modified  
+**Affiliation**: House Marr  
 
-Description
+Flaghip of House Marr.
 
 ## History
 

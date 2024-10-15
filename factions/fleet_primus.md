@@ -28,11 +28,11 @@ nav_order:
 | Column 1      | Column 2      |
 | :------------ | :------------ |
 | Bellum Magnificum | Cruiser |
-| Cruor Anacreon | Cell 1, Row 2 |
-| Ardent Hand | Cell 1, Row 2 |
-| Defiant Queen | Cell 1, Row 2 |
-| Starchild | Cell 1, Row 2 |
-| Wrathchild | Cell 1, Row 2 |
-| Escort Squadron Alpha | Cell 1, Row 2 |
-| Escort Squadron Beta | Cell 1, Row 2 |
+| Cruor Anacreon | Cruiser |
+| Ardent Hand | Cruiser |
+| Defiant Queen | Light Cruiser |
+| Starchild | Light Carrier |
+| Wrathchild | Light Carrier |
+| Escort Squadron Alpha | 6x Frigate |
+| Escort Squadron Beta | 4x Destroyer |
 

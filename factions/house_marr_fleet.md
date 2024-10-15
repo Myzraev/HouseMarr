@@ -48,7 +48,7 @@ House Marr's reserve fleet, tasked with defending Achanor.
 | Monitor Squadron Alpha | 3x Defence Monitor |
 | Monitor Squadron Beta | 3x Defence Monitor |
 | Escort Squadron Alpha | 5x Frigate, Sword |
-| Escort Squadron Beta | 5x Frigate, Class |
+| Escort Squadron Beta | 5x Frigate, Firestorm |
 | Escort Squadron Gamma | 4x Destroyer, Cobra |
 | Escort Squadron Delta | 4x Destroyer, Cobra |
 

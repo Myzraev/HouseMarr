@@ -19,10 +19,10 @@ nav_order:
 | :------------ | :------------ |
 | Bellum Magnificum | Cruiser, Lunar |
 | Cruor Anacreon | Cruiser, Lunar |
-| Ardent Hand | Cruiser |
-| Defiant Queen | Light Cruiser |
-| Starchild | Light Carrier |
-| Wrathchild | Light Carrier |
-| Escort Squadron Alpha | 6x Frigate |
-| Escort Squadron Beta | 4x Destroyer |
+| Ardent Hand | Cruiser, Gothic |
+| Defiant Queen | Light Cruiser, Endeavor |
+| Starchild | Light Carrier, Defiant |
+| Wrathchild | Light Carrier, Defiant |
+| Escort Squadron Alpha | 6x Frigate, Sword |
+| Escort Squadron Beta | 4x Destroyer, Cobra |
 

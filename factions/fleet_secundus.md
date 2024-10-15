@@ -11,7 +11,7 @@ nav_order:
 **Objective/Functions**: Security  
 **Base of Operations**: Planet Achanor  
 
-*Secondary House fleet, acts as a reserve fleet, tasked with defending Achanor*
+*House Marr's reserve fleet, acts as a reserve fleet, tasked with defending Achanor*
 
 ## Known vessels, active:
 | Name | Type |  

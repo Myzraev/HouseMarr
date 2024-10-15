@@ -11,11 +11,11 @@ nav_order:
 **Objective/Functions**: Security  
 **Base of Operations**: Planet Achanor  
 
-*Primary House fleet, tasked with securing the core systems of the Marr Protectorate*
+*House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate*
 
 ## Known vessels, active:
 | Name | Type |  
-| ---- | ---- |  
+| ------- | ------- |  
 | Bellum Magnificum | Cruiser |  
 | Cruor Anacreon | Cruiser |  
 | Ardent Hand | Cruiser |  

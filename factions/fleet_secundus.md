@@ -13,13 +13,14 @@ nav_order:
 
 *House Marr's reserve fleet, acts as a reserve fleet, tasked with defending Achanor*
 
-## Known vessels, active:
-| Name | Type |  
-| -------- | ----- |  
-| Ship | Type |  
-| Ship | Type |  
-| Ship | Type |  
-| Ship | Type |  
-| Ship | Type |  
-| Ship | Type |  
-| Ship | Type |  
+### Known vessels in service:
+
+| Name          | Type          |
+| :------------ | :------------ |
+| Ship | Type |
+| Ship | Type |
+| Ship | Type |
+| Ship | Type |
+| Ship | Type |
+| Ship | Type |
+| Ship | Type |

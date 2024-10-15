@@ -13,7 +13,7 @@ nav_order:
 
 *House Marr's primary fleet, tasked with securing the core systems of the Marr Protectorate*
 
-## Known vessels, active:
+### Known vessels in service:
 
 | Name          | Type          |
 | :------------ | :------------ |

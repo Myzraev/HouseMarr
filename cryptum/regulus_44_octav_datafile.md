@@ -10,7 +10,7 @@ nav_order:
 
 ###### // Hyphrin Beta Data-Nexus accessed, Glory to the Omnissiah // Enter repository command...acknowledged, switching to noosphere sub-cant gamma 52, access key authorization complete, connecting // Accessing data-crypt 73600034, additional security protocols detected, awaiting command...
 
-###### Data-crypt 73600034 enhanced access acknowledged enhanced, opening directory: signum-command 27904 aleph 2, exloading...//=
+###### Data-crypt 73600034 administrative access acknowledged, opening directory: signum-27904 aleph 2, exloading...//=
 
-
+# Regulus 44 Octav. 
 

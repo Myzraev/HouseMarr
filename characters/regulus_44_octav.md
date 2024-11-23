@@ -1,11 +1,11 @@
 ---
-title: Null 44 Octav
+title: Regulus 44 Octav
 layout: page
 parent: Characters
 nav_order: 
 ---
-# Null 44 Octav
-*Title best known for*  
+# Regulus 44 Octav
+*Tech Adept*  
 
 Description
 

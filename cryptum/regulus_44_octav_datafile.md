@@ -8,9 +8,7 @@ nav_order:
 <p style="font-size:0.3em; "> =// 01000001 01100011 01100011 01100101 01110011 01110011 01101001 01101110 01100111 00101110 00101110 01110100 01110010 01100001 01101110 01110011 01101100 01100001 01110100 01101001 01101110 01100111 00100000 01110100 01101111 00111010 00100000 01010011 01110100 01100001 01101110 01100100 01100001 01110010 01100100 00100000 01001001 01101101 01110000 01100101 01110010 01101001 01100001 01101100 00100000 01001100 01101111 01110111 00100000 01000111 01101111 01110100 01101000 01101001 01100011 00101100 00100000 01010011 01110100 01100001 01101110 01100100 01100001 01110010 01100100 00100000 01010110 01100001 01110010 01101001 01100001 01101110 01110100 00100000 00110000 00110000 00110011 //
 </p>
 
-###### // Hyphrin Beta Data-Nexus access acknowledged, enter repository command...command acknowledged, switching to noosphere sub-cant gamma 52, access key correct, connecting.
-
-###### Data-crypt 73600034 accessed, opening...additional security protocols acknowledged, awaiting command...
+###### // Hyphrin Beta Data-Nexus access acknowledged, enter repository command...command acknowledged, switching to noosphere sub-cant gamma 52, access key correct, connecting // Data-crypt 73600034 accessed, opening...additional security protocols acknowledged, awaiting command...
 
 ###### Access granted, accessing data-crypt 73600034 with enhanced privileges, opening directory: signum-command 27904 aleph 2 //=
 

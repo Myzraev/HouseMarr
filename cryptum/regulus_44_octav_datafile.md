@@ -8,9 +8,14 @@ nav_order:
 <p style="font-size:0.3em; "> =// 01000001 01100011 01100011 01100101 01110011 01110011 01101001 01101110 01100111 00101110 00101110 01110100 01110010 01100001 01101110 01110011 01101100 01100001 01110100 01101001 01101110 01100111 00100000 01110100 01101111 00111010 00100000 01010011 01110100 01100001 01101110 01100100 01100001 01110010 01100100 00100000 01001001 01101101 01110000 01100101 01110010 01101001 01100001 01101100 00100000 01001100 01101111 01110111 00100000 01000111 01101111 01110100 01101000 01101001 01100011 00101100 00100000 01010011 01110100 01100001 01101110 01100100 01100001 01110010 01100100 00100000 01010110 01100001 01110010 01101001 01100001 01101110 01110100 00100000 00110000 00110000 00110011 //
 </p>
 
-###### // Hyphrin Beta Data-Nexus accessed, Glory to the Omnissiah // Enter repository command...acknowledged, switching to noosphere sub-cant gamma 52, access key authorization complete, connecting // Accessing data-crypt 73600034, additional security protocols detected, awaiting command...
+###### // Hyphrin Beta Data-Nexus accessed, Glory to the Omnissiah // Enter repository command...acknowledged, switching to noosphere sub-cant gamma 52, access key authorization complete, connecting // Accessing info-crypt 73600034, additional security protocols detected, awaiting command...
 
-###### Data-crypt 73600034 administrative access acknowledged, opening directory: signum-27904 aleph 2, exloading...//=
+###### Info-crypt 73600034 arch-cognis override acknowledged, opening directory: signum-27904 aleph 2, exloading...//=
 
 # Regulus 44 Octav. 
 
+
+###### =// Exload complete...securing cogitation sanctity, revoking privileges...disconnecting. The Omnissiah knows all, comprehends all //=
+
+<p style="font-size:0.3em; ">=// 01000100 01101001 01110011 01100011 01101111 01101110 01101110 01100101 01100011 01110100 01100101 01100100. //=
+</p>

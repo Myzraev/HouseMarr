@@ -11,10 +11,11 @@ nav_order:
 
 Info-crypt 739038 arch-cognis override acknowledged, opening directory: signum-27904 aleph 2, exloading...//=</p>
 
-# Regulus 44 Octav. 
+# Regulus 44 Octav  
 
-Designation: Regulus 44 Octav
-Identity Signum: 631918002787
+Full Designation: Regulus 44 Octav
+Designator Signum: Regulus
+Identity Number: 631918002787
 Origin: Cradle-Vat 44 (Genesis Forge Octav), Forge World Hyphrin Beta, Sector Crucis, Segmentum Ultima
 Origin Date: 9211039.M42 / 10.404+ FWHB M42
 

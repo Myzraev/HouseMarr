@@ -13,6 +13,10 @@ Info-crypt 739038 arch-cognis override acknowledged, opening directory: signum-2
 
 # Regulus 44 Octav. 
 
+Designation: Regulus 44 Octav
+Identity Signum: 631918002787
+Origin: Cradle-Vat 44 (Genesis Forge Octav), Forge World Hyphrin Beta, Sector Crucis, Segmentum Ultima
+Origin Date: 9211039.M42 / 10.404+ FWHB M42
 
 <p style="font-size:0.4em; "> // Exload complete...securing cogitation sanctity, revoking privileges...disconnecting. The Omnissiah knows all, comprehends all //</p>
 

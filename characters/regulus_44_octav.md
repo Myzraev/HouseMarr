@@ -11,7 +11,6 @@ Born on the forge world of Hyphrin Beta in the Crucis Reach, Regulus is a distin
 
 Currently in service to the Rogue Trader Aurelia Ignata den Welkenbroich, mistress of the ShipName.
 
-## Bio
 ## Early History
 Born from the mass bio-vats of Forge Octav on the forge world of Hyphrin Beta, Regulus was among the rare few whose intelligence and aptitude earned them induction into the sacred priesthood of the Adeptus Mechanicus. Destined for a higher form of service to the Omnissiah, he was taught the arcane mysteries of the machine.
 
